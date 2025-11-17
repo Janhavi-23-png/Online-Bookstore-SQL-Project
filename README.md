@@ -48,5 +48,4 @@ This project demonstrates end-to-end SQL skills using PostgreSQL. It includes da
 
 ---
 
-## 📌 Author
-Thank you for checking out this SQL project!
+***Thank you for checking out this SQL project!***
