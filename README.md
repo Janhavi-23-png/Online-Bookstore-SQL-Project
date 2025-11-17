@@ -13,9 +13,14 @@ This project demonstrates end-to-end SQL skills using PostgreSQL. It includes da
 ---
 
 ## 🗂️ Database Tables
-**Books** – Book details (title, author, genre, price, stock)  
-**Customers** – Customer info (name, email, city, country)  
-**Orders** – Order details (quantity, total amount, order date)  
+**Books** – Contains book information  
+  *(Title, Author, Genre, Published_Year, Price, Stock)*  
+
+**Customers** – Stores customer details  
+  *(Name, Email, Phone, City, Country)*  
+
+**Orders** – Records purchase transactions  
+  *(Customer_ID, Book_ID, Order_Date, Quantity, Total_Amount)*
 
 ---
 
